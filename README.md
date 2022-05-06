@@ -7,6 +7,7 @@ a web application to buy and sell pets
 - Clone this repository: `git clone https://github.com/Benziza/Pet-Shop.git`.
 - Run Server Tomcat 9 .
 - Run MySql database .
+- Import file **pet--shop.sql** in your database .
 - Run the project from eclipse or intellij.
 
 ## Screenshot
