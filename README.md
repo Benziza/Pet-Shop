@@ -12,7 +12,7 @@ a web application to buy and sell pets
 
 ## Screenshot
 
-![img](./screenshot/home.png)
+![img](./ScreenShot/home.png)
 
 ## Technologie
 
